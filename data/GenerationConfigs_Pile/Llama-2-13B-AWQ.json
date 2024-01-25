@@ -1,0 +1,8 @@
+{
+	"CompletionCount" : 50000,
+	"WorkerCount" : 64,
+	"PromptFormat" : "Foundation",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/PileCompletions/Llama-2-13B-AWQ"
+}

@@ -1,0 +1,23 @@
+{
+    "HumanEssaysFilepath" : "data/PERSUADE/persuade_2.0_human_scores_demo_id_github.csv",
+    "SourceTextDirectoryPath" : "data/PERSUADE/SourceTexts",
+    "RootOutputDirectoryPath" : "data/GeneratedEssays_StudentImitator/Llama-2-13B-fp16_8e-4_1_Fold1_V2",
+    "EssayCount" : 25000,
+    "ParallelRequestCount" : 128,
+    "LlmHostname" : "mlserver",
+    "VllmPort" : 8000,
+    "PromptTemplateName" : "Instruct_V2",
+    "FewShotExampleCounts" : [0],
+    "ProbIncludeSourceText" : 0.5,
+    "SamplingConfigurations" : {
+        "MinSamplingTemperature" : 0,
+        "MaxSamplingTemperature" : 2,
+        "TopKValues" : [-1, 20, 40],
+        "MinTopPValue" : 0.5,
+        "MaxTopPValue" : 1,
+        "MinFrequencyPenalty" : 0,
+        "MaxFrequencyPenalty" : 0.6
+    },
+    "ProbIncludeSuppelementalInstructions" : 0.5,
+    "SuppelementalInstructions" : []
+}

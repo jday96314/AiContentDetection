@@ -1,0 +1,8 @@
+{
+	"CompletionCount" : 5000,
+	"WorkerCount" : 128,
+	"PromptFormat" : "Airoboros",
+	"VllmHostname" : "mlserver2",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/PileCompletions/Airoboros-L2-13B-2.1-AWQ"
+}

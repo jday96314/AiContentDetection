@@ -1,0 +1,8 @@
+{
+	"SourceDocumentsPath" : "data/SlimPajamaCompletions/SourceDocuments/5.json",
+	"WorkerCount" : 128,
+	"PromptFormat" : "MistralInstruct",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/SlimPajamaCompletions/Completions/Mixtral-8x7B-Instruct-v0.1-GPTQ"
+}

@@ -1,0 +1,8 @@
+{
+	"SourceDocumentsPath" : "data/SlimPajamaCompletions/SourceDocuments/4.json",
+	"WorkerCount" : 128,
+	"PromptFormat" : "Foundation",
+	"VllmHostname" : "mlserver2",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/SlimPajamaCompletions/Completions/deepseek-coder-33B-base-AWQ"
+}

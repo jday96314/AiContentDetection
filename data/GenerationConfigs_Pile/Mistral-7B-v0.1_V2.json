@@ -1,0 +1,9 @@
+{
+	"CompletionCount" : 25000,
+	"WorkerCount" : 128,
+    "BlacklistedPileSubsets" : ["Github", "PubMed Abstracts", "PubMed Central"],
+	"PromptFormat" : "Foundation",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/PileCompletions_V2/Mistral-7B-v0.1"
+}

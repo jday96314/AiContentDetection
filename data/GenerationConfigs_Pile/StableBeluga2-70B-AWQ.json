@@ -1,0 +1,8 @@
+{
+	"CompletionCount" : 25000,
+	"WorkerCount" : 128,
+	"PromptFormat" : "Orca-Hashes",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/PileCompletions/StableBeluga2-70B-AWQ"
+}

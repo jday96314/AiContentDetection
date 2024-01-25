@@ -1,0 +1,8 @@
+{
+	"CompletionCount" : 50000,
+	"WorkerCount" : 128,
+	"PromptFormat" : "ZephyrBeta",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8001,
+	"OutputDirectoryPath" : "data/PileCompletions/zephyr-7b-beta"
+}

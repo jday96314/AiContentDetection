@@ -1,0 +1,8 @@
+{
+	"SourceDocumentsPath" : "data/SlimPajamaCompletions/SourceDocuments/0.json",
+	"WorkerCount" : 128,
+	"PromptFormat" : "Alpaca",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8001,
+	"OutputDirectoryPath" : "data/SlimPajamaCompletions/Completions/Nous-Hermes-Llama2-AWQ"
+}

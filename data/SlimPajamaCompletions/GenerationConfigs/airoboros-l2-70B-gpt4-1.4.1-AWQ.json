@@ -1,0 +1,8 @@
+{
+	"SourceDocumentsPath" : "data/SlimPajamaCompletions/SourceDocuments/6.json",
+	"WorkerCount" : 128,
+	"PromptFormat" : "Airoboros-1.4.1",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/SlimPajamaCompletions/Completions/airoboros-l2-70B-gpt4-1.4.1-AWQ"
+}

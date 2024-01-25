@@ -1,0 +1,9 @@
+{
+	"CompletionCount" : 25000,
+	"WorkerCount" : 128,
+    "BlacklistedPileSubsets" : ["Github", "PubMed Abstracts", "PubMed Central"],
+	"PromptFormat" : "Foundation",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8001,
+	"OutputDirectoryPath" : "data/PileCompletions_V2/falcon-7b"
+}

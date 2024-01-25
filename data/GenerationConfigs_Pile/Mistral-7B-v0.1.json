@@ -1,0 +1,8 @@
+{
+	"CompletionCount" : 45000,
+	"WorkerCount" : 64,
+	"PromptFormat" : "Foundation",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8001,
+	"OutputDirectoryPath" : "data/PileCompletions/Mistral-7B-v0.1"
+}

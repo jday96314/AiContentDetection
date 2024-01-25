@@ -1,0 +1,8 @@
+{
+	"CompletionCount" : 25000,
+	"WorkerCount" : 128,
+	"PromptFormat" : "OpenHermes",
+	"VllmHostname" : "mlserver2",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/PileCompletions/OpenHermes-2.5-Mistral-7B"
+}

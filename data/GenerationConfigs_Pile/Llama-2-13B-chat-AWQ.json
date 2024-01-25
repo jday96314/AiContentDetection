@@ -1,0 +1,8 @@
+{
+	"CompletionCount" : 45000,
+	"WorkerCount" : 64,
+	"PromptFormat" : "Llama2Chat",
+	"VllmHostname" : "mlserver2",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/PileCompletions/Llama-2-13B-chat-AWQ"
+}

@@ -1,0 +1,8 @@
+{
+	"SourceDocumentsPath" : "data/SlimPajamaCompletions/SourceDocuments/3.json",
+	"WorkerCount" : 128,
+	"PromptFormat" : "Dolphin",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/SlimPajamaCompletions/Completions/dolphin-2.6-mistral-7b"
+}

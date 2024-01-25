@@ -1,0 +1,8 @@
+{
+	"SourceDocumentsPath" : "data/SlimPajamaCompletions/SourceDocuments/1.json",
+	"WorkerCount" : 128,
+	"PromptFormat" : "Foundation",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/SlimPajamaCompletions/Completions/mixtral-8x7b-v0.1-AWQ"
+}

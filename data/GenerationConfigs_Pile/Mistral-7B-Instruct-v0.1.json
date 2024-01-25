@@ -1,0 +1,8 @@
+{
+	"CompletionCount" : 45000,
+	"WorkerCount" : 64,
+	"PromptFormat" : "MistralInstruct",
+	"VllmHostname" : "mlserver",
+	"VllmPort" : 8000,
+	"OutputDirectoryPath" : "data/PileCompletions/Mistral-7B-Instruct"
+}
